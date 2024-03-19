@@ -31,7 +31,7 @@ function Form({ getMovie }) {
         type='search'
         name='movieTitle'
         onChange={handleChange}
-        placeholder='Movie Title...'
+        placeholder='Your Movie Choice...'
       />
       <input type='submit' value='Submit' />
     </form>
