@@ -11,6 +11,7 @@ import Home from "./pages/Home"
 // import axios from 'axios';
 // import GifDisplay from './components/GifDisplay';
 // import Home from './pages/Home';
+// gifs from giphy.com
 export const gifsArray = [
   {
     Title: "The Twilight Zone 1",
