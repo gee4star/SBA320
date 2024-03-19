@@ -54,7 +54,7 @@ function App() {
     try {
       if (movieTitle === "" ) {
         let randomObj = gifsArray[(Math.floor(Math.random() * gifsArray.length))]
-        console.log("Yo!", randomObj)
+        console.log("Wow!", randomObj)
         setGifData(randomObj)
       } else {
         let res = fetch(`http://www.omdbapi.com/?apikey=${
@@ -68,6 +68,7 @@ function App() {
           )
           .then(data => {
             console.log(data)
+            
           })
           .catch(error => {
        
@@ -100,14 +101,19 @@ function App() {
 
   // console.log(import.meta.env.VITE_API_Key);
 
+
   return (
+
     <>
+    <h1> Film Reels</h1>
+      <h1> Movie Picker App</h1>
     <nav>
       <ul>
           {/* <Link to="/">Home </Link>
           <Link to="/choose">Select Movie</Link> */}
       </ul>
     </nav>
+   
     <Routes>
       <Route path='/' element={<Home/>}/>
       {/* <MovieDisplay movie={movieInfo} /> */}

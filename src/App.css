@@ -3,9 +3,31 @@
   margin: 0 auto;
   padding: 2rem;
   text-align: center;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  background-color: rgb(121, 165, 121);
+  border: solid 10px blue;
+  border-style: double ;
+  box-shadow:
+  0 0 0 10px hsl(0, 72%, 65%),
+  0 0 0 15px hsl(296, 95%, 46%);
+}
+.blur {
+  box-shadow:
+    0 0 0 10px hsl(0, 98%, 48%),
+    0 0 0 15px hsl(296, 95%, 46%);
 }
 
-.logo {
+ h1 {
+  color:rgb(167, 11, 251);
+  text-shadow: lightskyblue 2px 0 7px;
+  margin: 0
+} 
+form input {
+  /* type=submit; */
+  background:linear-gradient(90deg, red, orange, yellow, green, blue, purple);
+}
+
+/* .logo {
   height: 6em;
   padding: 1.5em;
   will-change: filter;
@@ -16,9 +38,9 @@
 }
 .logo.react:hover {
   filter: drop-shadow(0 0 2em #61dafbaa);
-}
+} */
 
-@keyframes logo-spin {
+/* @keyframes logo-spin {
   from {
     transform: rotate(0deg);
   }
@@ -31,7 +53,7 @@
   a:nth-of-type(2) .logo {
     animation: logo-spin infinite 20s linear;
   }
-}
+} */
 
 .card {
   padding: 2em;
