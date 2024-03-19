@@ -42,6 +42,49 @@ export const gifsArray = [
     Poster: "https://media.giphy.com/media/MZpA2B8bX8uSBDmdRY/giphy.gif?cid=790b7611hjf08l1vornb3hhc70a976qhbeeor3m6621x67a9&ep=v1_gifs_search&rid=giphy.gif&ct=g",
     Year: "1964"
   },
+  {
+    Title: "The Twilight Zone 6",
+    Genre: "Sci-Fi",
+    Poster: "https://media.giphy.com/media/fV1EFG69czvA9a1OLx/giphy.gif?cid=790b7611rxzlkcyt0bub9wl891e407tcq62okpmp3z8ejkn6&ep=v1_gifs_search&rid=giphy.gif&ct=g",
+    Year: "1964"
+  },
+  {
+    Title: "The Twilight Zone 7",
+    Genre: "Sci-Fi",
+    Poster: "https://media.giphy.com/media/fSkb7y8iAPfDcqyqhc/giphy.gif?cid=790b7611rxzlkcyt0bub9wl891e407tcq62okpmp3z8ejkn6&ep=v1_gifs_search&rid=giphy.gif&ct=g",
+    Year: "1964"
+  },
+  {
+    Title: "The Twilight Zone 8",
+    Genre: "Sci-Fi",
+    Poster: "https://media.giphy.com/media/gF7k9JKACKXwyv639v/giphy.gif?cid=790b7611rxzlkcyt0bub9wl891e407tcq62okpmp3z8ejkn6&ep=v1_gifs_search&rid=giphy.gif&ct=g",
+    Year: "1964" 
+  },
+  {
+    Title: "The Twilight Zone 9",
+    Genre: "Sci-Fi",
+    Poster: "https://media.giphy.com/media/kG8z3nSq3c3wgN6gyI/giphy.gif?cid=790b7611rxzlkcyt0bub9wl891e407tcq62okpmp3z8ejkn6&ep=v1_gifs_search&rid=giphy.gif&ct=g",
+    Year: "1964"  
+  },
+  {
+    Title: "The Twilight Zone 10",
+    Genre: "Sci-Fi",
+    Poster: "https://media.giphy.com/media/RJska60nvVIYtLrQtO/giphy.gif?cid=ecf05e47m357m0ueyxg308m3cdxt7s4hes7u4jw34o7ybjbf&ep=v1_gifs_search&rid=giphy.gif&ct=g",
+    Year: "1964" 
+  },
+  {
+    Title: "The Twilight Zone 11",
+    Genre: "Sci-Fi",
+    Poster: "https://media.giphy.com/media/homXU0qLuOKzafzyPj/giphy.gif?cid=ecf05e47kfi1dke10noqgec34iyy7nwmgvi3lzs1y2hh7tv9&ep=v1_gifs_search&rid=giphy.gif&ct=g",
+    Year: "1964" 
+  },
+  {
+    Title: "The Twilight Zone 12",
+    Genre: "Sci-Fi",
+    Poster: "https://media.giphy.com/media/11VuVDwcO70bzG/giphy.gif?cid=ecf05e472kl0g5fupzhw8no7b1zf5tujw08fxdkxsbbehc5r&ep=v1_gifs_search&rid=giphy.gif&ct=g",
+    Year: "1964"  
+  },
+
 ]
 
 
